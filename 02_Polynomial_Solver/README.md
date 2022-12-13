@@ -1,9 +1,7 @@
 # ML-Activities
 
-### Homework 2
----
+## Homework 2
 Use SGD to learn polynomial coefficients
-### Requirements
----
+## Requirements
 To install requirements: 
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
