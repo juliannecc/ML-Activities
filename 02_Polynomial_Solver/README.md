@@ -4,4 +4,6 @@
 Use SGD to learn polynomial coefficients
 ## Requirements
 To install requirements: 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
