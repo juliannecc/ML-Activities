@@ -23,7 +23,7 @@ For more information regarding the settings, please run the command below:
 ```
 python solve.py -h 
 ```
-## Note to reader
-Since my machine is not able to run TinyGrad, the code was made using Google Colab, hence, for the best experience, 
+## Notes to reader
+- Since my machine is not able to run TinyGrad, the code was made using Google Colab, hence, for the best experience, 
 use GoogleColab. 
-
+- If the `-plot` parameter is set to True (by default it is), please close the figure for the program to continue. 
